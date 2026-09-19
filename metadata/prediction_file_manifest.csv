@@ -1,0 +1,10 @@
+public_dataset,seed,file,methods,rows_per_method,calibration_target
+WPF-SCADA,42,predictions_main088/WPF-SCADA_seed42_prediction_evidence_main088.csv.gz,Proposed model;MLP-QR;LSTM-QR;GRU-QR;CNN-QR;Transformer-QR;SQR;LUBE-NN;RQR-MLP;KDE,4895,0.88
+Longyuan-SCADA,42,predictions_main088/Longyuan-SCADA_seed42_prediction_evidence_main088.csv.gz,Proposed model;MLP-QR;LSTM-QR;GRU-QR;CNN-QR;Transformer-QR;SQR;LUBE-NN;RQR-MLP;KDE,5242,0.88
+SDWPF-SCADA,42,predictions_main088/SDWPF-SCADA_seed42_prediction_evidence_main088.csv.gz,Proposed model;MLP-QR;LSTM-QR;GRU-QR;CNN-QR;Transformer-QR;SQR;LUBE-NN;RQR-MLP;KDE,12704,0.88
+WPF-SCADA,43,predictions_main088/WPF-SCADA_seed43_prediction_evidence_main088.csv.gz,Proposed model;MLP-QR;LSTM-QR;GRU-QR;CNN-QR;Transformer-QR;SQR;LUBE-NN;RQR-MLP;KDE,4895,0.88
+Longyuan-SCADA,43,predictions_main088/Longyuan-SCADA_seed43_prediction_evidence_main088.csv.gz,Proposed model;MLP-QR;LSTM-QR;GRU-QR;CNN-QR;Transformer-QR;SQR;LUBE-NN;RQR-MLP;KDE,5242,0.88
+SDWPF-SCADA,43,predictions_main088/SDWPF-SCADA_seed43_prediction_evidence_main088.csv.gz,Proposed model;MLP-QR;LSTM-QR;GRU-QR;CNN-QR;Transformer-QR;SQR;LUBE-NN;RQR-MLP;KDE,12704,0.88
+WPF-SCADA,44,predictions_main088/WPF-SCADA_seed44_prediction_evidence_main088.csv.gz,Proposed model;MLP-QR;LSTM-QR;GRU-QR;CNN-QR;Transformer-QR;SQR;LUBE-NN;RQR-MLP;KDE,4895,0.88
+Longyuan-SCADA,44,predictions_main088/Longyuan-SCADA_seed44_prediction_evidence_main088.csv.gz,Proposed model;MLP-QR;LSTM-QR;GRU-QR;CNN-QR;Transformer-QR;SQR;LUBE-NN;RQR-MLP;KDE,5242,0.88
+SDWPF-SCADA,44,predictions_main088/SDWPF-SCADA_seed44_prediction_evidence_main088.csv.gz,Proposed model;MLP-QR;LSTM-QR;GRU-QR;CNN-QR;Transformer-QR;SQR;LUBE-NN;RQR-MLP;KDE,12704,0.88

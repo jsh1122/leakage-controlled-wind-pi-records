@@ -1,0 +1,10 @@
+public_dataset,seed,stage1_dpr,scaler_fit,feature_policy,chebykan_degree,best_lambda,calibration_target,selection_policy
+WPF-SCADA,42,raw DPR,train-only,history-only,4,0.15,0.88,"validation-only DPR, loss, and degree selection; common gamma=0.88 operating point; pre-test target-selection chronology not established; exploratory target sweep"
+Longyuan-SCADA,42,raw DPR,train-only,history-only,2,0.45,0.88,"validation-only DPR, loss, and degree selection; common gamma=0.88 operating point; pre-test target-selection chronology not established; exploratory target sweep"
+SDWPF-SCADA,42,raw DPR,train-only,history-only,2,0.1,0.88,"validation-only DPR, loss, and degree selection; common gamma=0.88 operating point; pre-test target-selection chronology not established; exploratory target sweep"
+WPF-SCADA,43,raw DPR,train-only,history-only,4,0.3,0.88,"validation-only DPR, loss, and degree selection; common gamma=0.88 operating point; pre-test target-selection chronology not established; exploratory target sweep"
+Longyuan-SCADA,43,raw DPR,train-only,history-only,2,0.35,0.88,"validation-only DPR, loss, and degree selection; common gamma=0.88 operating point; pre-test target-selection chronology not established; exploratory target sweep"
+SDWPF-SCADA,43,raw DPR,train-only,history-only,2,0.5,0.88,"validation-only DPR, loss, and degree selection; common gamma=0.88 operating point; pre-test target-selection chronology not established; exploratory target sweep"
+WPF-SCADA,44,raw DPR,train-only,history-only,4,0.5,0.88,"validation-only DPR, loss, and degree selection; common gamma=0.88 operating point; pre-test target-selection chronology not established; exploratory target sweep"
+Longyuan-SCADA,44,raw DPR,train-only,history-only,2,0.05,0.88,"validation-only DPR, loss, and degree selection; common gamma=0.88 operating point; pre-test target-selection chronology not established; exploratory target sweep"
+SDWPF-SCADA,44,raw DPR,train-only,history-only,2,0.3,0.88,"validation-only DPR, loss, and degree selection; common gamma=0.88 operating point; pre-test target-selection chronology not established; exploratory target sweep"

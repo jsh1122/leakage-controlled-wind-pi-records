@@ -1,0 +1,4 @@
+public_dataset,source,url,notes
+WPF-SCADA,Kaggle Wind Power Forecasting dataset,https://www.kaggle.com/datasets/theforcecoder/wind-power-forecasting,Public Kaggle single-windmill SCADA dataset with 10-min weather, turbine, and rotor measurements.
+Longyuan-SCADA,Longyuan wind farm power forecasting dataset,https://aistudio.baidu.com/datasetdetail/205286,Public wind-farm forecasting dataset.
+SDWPF-SCADA,"SDWPF benchmark, Scientific Data 2024",https://doi.org/10.1038/s41597-024-03427-5,Single-turbine subset used for the manuscript-facing benchmark.

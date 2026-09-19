@@ -1,0 +1,4 @@
+public_dataset,dpr_type,clean_stage1_cache_build_time_s,cached_stage1_load_time_s_mean,stage2_common_benchmark_time_s_mean,cached_full_script_time_s_mean,estimated_clean_stage1_plus_cached_stage2_s,stage2_runs,stage1_origin,stage2_origin
+WPF-SCADA,raw DPR,92.01133155822754,0.008670806884765625,1342.3665487766266,1342.3768135706584,1434.3778803348541,3,"clean cache-only run, seed 42","source capture run, cached DPR, target 0.84; other targets derived without retraining"
+Longyuan-SCADA,raw DPR,103.36010265350342,0.0073986053466796875,846.0228373209635,846.0315461953481,949.3829399744669,3,"clean cache-only run, seed 42","source capture run, cached DPR, target 0.84; other targets derived without retraining"
+SDWPF-SCADA,raw DPR,263.16579151153564,0.013278722763061523,2560.6551225980124,2560.671411673228,2823.820914109548,3,"clean cache-only run, seed 42","source capture run, cached DPR, target 0.84; other targets derived without retraining"

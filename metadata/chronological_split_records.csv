@@ -1,0 +1,4 @@
+public_dataset,source_rows,target_name,feature_count,usable_source_rows,lookback_window,horizon,supervised_window_samples,train_samples,validation_samples,test_samples,train_sample_start,train_sample_end,validation_sample_start,validation_sample_end,test_sample_start,test_sample_end,split_policy
+WPF-SCADA,118224,ActivePower,19,32728,96,1,32631,22841,4895,4895,0,22840,22841,27735,27736,32630,chronological 70/15/15 at window level
+Longyuan-SCADA,35040,actual_power_mw,13,35040,96,1,34943,24460,5241,5242,0,24459,24460,29700,29701,34942,chronological 70/15/15 at window level
+SDWPF-SCADA,84785,Patv,15,84785,96,1,84688,59281,12703,12704,0,59280,59281,71983,71984,84687,chronological 70/15/15 at window level
